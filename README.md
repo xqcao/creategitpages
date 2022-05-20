@@ -1,3 +1,6 @@
+# Creating a repository for your site
+![create repo](/public/imgs/initrepo.png)
+
 # Getting Started with Create React App
 
 ```
