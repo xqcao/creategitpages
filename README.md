@@ -22,6 +22,16 @@ npm install --save-dev gh-pages
 "deploy": "gh-pages -d build"
 ```
 ![add script](/public/imgs/script.png)
+
+#  push to github repository
+```
+git add .
+git commit -m "v1 react app"
+git branch -M main
+git push -u origin main
+```
+
+
 # build and deploy
 ```
 npm run build
